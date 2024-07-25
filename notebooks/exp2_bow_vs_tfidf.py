@@ -23,7 +23,7 @@ mlflow.set_tracking_uri('https://dagshub.com/campusx-official/mlops-project-1.ml
 
 # Load the data
 df = pd.read_csv('https://raw.githubusercontent.com/campusx-official/jupyter-masterclass/main/tweet_emotions.csv').drop(columns=['tweet_id'])
-df.head()
+
 
 # Define text preprocessing functions
 def lemmatization(text):
