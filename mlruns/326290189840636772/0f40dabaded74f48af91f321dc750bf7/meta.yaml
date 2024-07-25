@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/mlops-project-1/mlruns/326290189840636772/0f40dabaded74f48af91f321dc750bf7/artifacts
+end_time: 1721848468673
+entry_point_name: ''
+experiment_id: '326290189840636772'
+lifecycle_stage: active
+run_id: 0f40dabaded74f48af91f321dc750bf7
+run_name: MultinomialNB Algorithm
+run_uuid: 0f40dabaded74f48af91f321dc750bf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721848461531
+status: 3
+tags: []
+user_id: Nitish

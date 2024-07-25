@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/mlops-project-1/mlruns/326290189840636772/193180ddcddf48de90ee06fb449f63e9/artifacts
+end_time: 1721848317075
+entry_point_name: ''
+experiment_id: '326290189840636772'
+lifecycle_stage: active
+run_id: 193180ddcddf48de90ee06fb449f63e9
+run_name: LogisticRegression Algorithm
+run_uuid: 193180ddcddf48de90ee06fb449f63e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721848310223
+status: 4
+tags: []
+user_id: Nitish

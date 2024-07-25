@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/mlops-project-1/mlruns/326290189840636772/dd1f34cb9a7041cbbdcfff5f825b3bb6/artifacts
+end_time: 1721848544570
+entry_point_name: ''
+experiment_id: '326290189840636772'
+lifecycle_stage: active
+run_id: dd1f34cb9a7041cbbdcfff5f825b3bb6
+run_name: RandomForest Algorithm
+run_uuid: dd1f34cb9a7041cbbdcfff5f825b3bb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721848480037
+status: 3
+tags: []
+user_id: Nitish

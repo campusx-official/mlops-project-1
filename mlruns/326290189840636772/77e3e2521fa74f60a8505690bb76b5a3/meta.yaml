@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/mlops-project-1/mlruns/326290189840636772/77e3e2521fa74f60a8505690bb76b5a3/artifacts
+end_time: 1721848404983
+entry_point_name: ''
+experiment_id: '326290189840636772'
+lifecycle_stage: active
+run_id: 77e3e2521fa74f60a8505690bb76b5a3
+run_name: BoW Features
+run_uuid: 77e3e2521fa74f60a8505690bb76b5a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721848397690
+status: 4
+tags: []
+user_id: Nitish

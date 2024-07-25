@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/mlops-project-1/mlruns/326290189840636772/b32d99b73dc24684969756e3d5cae0ad/artifacts
+end_time: 1721848591687
+entry_point_name: ''
+experiment_id: '326290189840636772'
+lifecycle_stage: active
+run_id: b32d99b73dc24684969756e3d5cae0ad
+run_name: GradientBoosting Algorithm
+run_uuid: b32d99b73dc24684969756e3d5cae0ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721848544578
+status: 3
+tags: []
+user_id: Nitish

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/mlops-project-1/mlruns/326290189840636772/46629b8463074b43b32c4f9adccc9b05/artifacts
+end_time: 1721848480030
+entry_point_name: ''
+experiment_id: '326290189840636772'
+lifecycle_stage: active
+run_id: 46629b8463074b43b32c4f9adccc9b05
+run_name: XGBoost Algorithm
+run_uuid: 46629b8463074b43b32c4f9adccc9b05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721848468681
+status: 3
+tags: []
+user_id: Nitish

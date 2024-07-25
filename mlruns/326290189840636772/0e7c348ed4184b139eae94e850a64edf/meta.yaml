@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/mlops-project-1/mlruns/326290189840636772/0e7c348ed4184b139eae94e850a64edf/artifacts
+end_time: 1721848461520
+entry_point_name: ''
+experiment_id: '326290189840636772'
+lifecycle_stage: active
+run_id: 0e7c348ed4184b139eae94e850a64edf
+run_name: TF-IDF Features
+run_uuid: 0e7c348ed4184b139eae94e850a64edf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721848457916
+status: 3
+tags: []
+user_id: Nitish
